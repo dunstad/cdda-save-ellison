@@ -8,8 +8,8 @@
 ,[[false,32400]]
 ,[[false,32400]]
 ,[[false,32400]]
-,[[false,32400]]
-,[[false,2729],[true,1],[false,174],[true,11],[false,167],[true,15],[false,163],[true,19],[false,160],[true,21],[false,158],[true,23],[false,156],[true,25],[false,155],[true,25],[false,154],[true,27],[false,153],[true,27],[false,152],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,29],[false,150],[true,31],[false,150],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,28],[false,152],[true,28],[false,151],[true,28],[false,152],[true,28],[false,153],[true,26],[false,154],[true,25],[false,155],[true,24],[false,156],[true,23],[false,158],[true,21],[false,159],[true,10],[false,1],[true,10],[false,160],[true,6],[false,1],[true,2],[false,2],[true,8],[false,162],[true,4],[false,2],[true,2],[false,2],[true,7],[false,164],[true,3],[false,1],[true,3],[false,2],[true,1],[false,1],[true,4],[false,166],[true,1],[false,2],[true,3],[false,2],[true,1],[false,1],[true,3],[false,170],[true,3],[false,2],[true,2],[false,23370]]
+,[[false,5429],[true,1],[false,179],[true,2],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,178],[true,2],[false,178],[true,2],[false,25529]]
+,[[false,2729],[true,1],[false,174],[true,11],[false,167],[true,15],[false,163],[true,19],[false,160],[true,21],[false,158],[true,23],[false,156],[true,25],[false,155],[true,25],[false,154],[true,27],[false,153],[true,27],[false,152],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,29],[false,150],[true,31],[false,150],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,29],[false,151],[true,28],[false,152],[true,28],[false,151],[true,28],[false,152],[true,28],[false,153],[true,26],[false,154],[true,25],[false,155],[true,24],[false,156],[true,23],[false,158],[true,21],[false,159],[true,21],[false,160],[true,6],[false,1],[true,2],[false,2],[true,8],[false,162],[true,4],[false,2],[true,2],[false,2],[true,7],[false,164],[true,3],[false,1],[true,3],[false,2],[true,1],[false,1],[true,4],[false,166],[true,1],[false,2],[true,3],[false,2],[true,1],[false,1],[true,3],[false,170],[true,3],[false,2],[true,2],[false,23370]]
 ,[[false,3269],[true,1],[false,175],[true,9],[false,169],[true,13],[false,166],[true,15],[false,164],[true,17],[false,162],[true,19],[false,160],[true,21],[false,159],[true,21],[false,158],[true,23],[false,157],[true,23],[false,157],[true,23],[false,157],[true,23],[false,156],[true,25],[false,155],[true,24],[false,155],[true,25],[false,155],[true,25],[false,154],[true,26],[false,154],[true,25],[false,155],[true,25],[false,155],[true,24],[false,155],[true,25],[false,155],[true,25],[false,156],[true,23],[false,157],[true,23],[false,157],[true,23],[false,157],[true,23],[false,158],[true,21],[false,159],[true,10],[false,1],[true,10],[false,160],[true,6],[false,1],[true,2],[false,2],[true,8],[false,162],[true,4],[false,2],[true,2],[false,2],[true,7],[false,164],[true,3],[false,1],[true,3],[false,2],[true,1],[false,1],[true,4],[false,166],[true,1],[false,2],[true,3],[false,2],[true,1],[false,1],[true,3],[false,170],[true,3],[false,2],[true,2],[false,23370]]
 ,[[false,32400]]
 ,[[false,32400]]
@@ -47,4 +47,7 @@
 ,[31,33,"mx_grass"]
 ,[25,34,"mx_point_burned_ground"]
 ,[24,28,"mx_grove"]
+,[32,39,"mx_trees"]
+,[32,35,"mx_casings"]
+,[32,34,"mx_grass"]
 ],[],[],[],[],[],[],[],[],[],[]]}
