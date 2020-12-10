@@ -1,0 +1,9 @@
+# version 27
+{
+  "next_mission_id": 1,
+  "next_npc_id": 2,
+  "active_missions": [  ],
+  "factions": [ { "id": "your_followers", "name": "Your Followers", "likes_u": 60, "respects_u": 60, "known_by_u": true, "size": 1, "power": 100, "food_supply": 0, "wealth": 0, "opinion_of": [  ], "relations": { "your_followers": { "knows your voice": true, "watch your back": true, "share my stuff": true, "guard your stuff": true, "lets you in": true, "kill on sight": false, "defends your space": true } } } ],
+  "seed": 2294072025,
+  "weather": { "lightning": false }
+}

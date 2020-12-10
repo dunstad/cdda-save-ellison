@@ -1,0 +1,4 @@
+{
+  "enabled": [ "mx_house_wasp", "mx_bandits_block", "mx_military", "mx_nest_dermatik", "mx_roadworks", "mx_grove", "mx_marloss_pilgrimage", "mx_jabberwock", "mx_roadblock", "mx_collegekids", "mx_mayhem", "mx_shia", "mx_science", "mx_crater", "mx_supplydrop", "mx_pond", "mx_portal_in", "mx_casings", "mx_drugdeal", "mx_anomaly", "mx_fumarole", "mx_house_spider", "mx_portal", "mx_clay_deposit", "mx_dead_vegetation", "mx_spider", "mx_clearcut", "mx_helicopter", "mx_shrubbery", "mx_minefield", "mx_nest_wasp", "mx_point_burned_ground", "mx_burned_ground", "mx_point_dead_vegetation" ],
+  "discovered": [ "mx_point_burned_ground", "mx_clay_deposit", "mx_trees", "mx_grass", "mx_grove", "mx_point_dead_vegetation" ]
+}
